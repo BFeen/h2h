@@ -15,5 +15,3 @@ while True:
                         i = -2
                         break
             i+=1
-
-
